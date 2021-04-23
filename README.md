@@ -1,4 +1,5 @@
-# hello-world
-Just another repository
+# R F C
 
-I'm not good at it.(laugh)
+Recalling, forgetting, then creating.
+
+思い出し、忘却して、そして創造する。
